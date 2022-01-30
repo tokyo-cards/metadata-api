@@ -1,0 +1,32 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Two"
+        },
+        "house": {
+            "name": "House",
+            "value": "Spades"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "ね"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Uncommon"
+        }
+    },
+    "description": "ノンプリマル・カード。このカードセットは、かの有名な吉沢明歩（アッキー）へのオマージュです。 あなたもどこかで彼女のビデオを見たことがあるのではないでしょうか。  アーケインのプライマルカードに分解することができる。ディスエンチャンターはウサギを集めるのが好きだ。",
+    "external_url": "https://tokyo.cards/items?id=23&chain=ethereum",
+    "image": "https://images.tokyo.cards/ethereum/card_set/acky/23.jpg",
+    "name": "スペードの二"
+}

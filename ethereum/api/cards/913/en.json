@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Six"
+        },
+        "house": {
+            "name": "House",
+            "value": "Spades"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "ん"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Uncommon"
+        }
+    },
+    "description": "Non-Primal Cards. This card set is a tribute to the famous Akiho Yoshizawa (Acky).  You've probably seen her video at some point in your life. Can be disenchanted into Arcane Primal Cards. Disenchanters love to collect rabbits",
+    "external_url": "https://tokyo.cards/items?id=913&chain=ethereum",
+    "image": "https://images.tokyo.cards/ethereum/card_set/acky/913.jpg",
+    "name": "Six of Spades",
+    "localization": {
+        "uri": "https://api.tokyo.cards/ethereum/api/cards/913/{locale}.json",
+        "default": "en",
+        "locales": [
+            "en",
+            "ja"
+        ]
+    }
+}

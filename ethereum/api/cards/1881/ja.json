@@ -1,0 +1,32 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Ten"
+        },
+        "house": {
+            "name": "House",
+            "value": "Hearts"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "ゐ"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Uncommon"
+        }
+    },
+    "description": "ノンプリマル・カード。このカードセットは、かの有名な吉沢明歩（アッキー）へのオマージュです。 あなたもどこかで彼女のビデオを見たことがあるのではないでしょうか。  スカーレットのプライマルカードに分解することができます。でも、それをできる人はどこにいるのですか？",
+    "external_url": "https://tokyo.cards/items?id=1881&chain=ethereum",
+    "image": "https://images.tokyo.cards/ethereum/card_set/acky/1881.jpg",
+    "name": "ハートの十"
+}

@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Real"
+        },
+        "house": {
+            "name": "House",
+            "value": "Joker"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "ゐ"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Legendary"
+        }
+    },
+    "description": "Non-Primal Cards. This card set is a tribute to the famous Akiho Yoshizawa (Acky).  You've probably seen her video at some point in your life. Power of Rabbits and Kangaroo !",
+    "external_url": "https://tokyo.cards/items?id=2907&chain=ethereum",
+    "image": "https://images.tokyo.cards/ethereum/card_set/acky/2907.jpg",
+    "name": "Real Joker",
+    "localization": {
+        "uri": "https://api.tokyo.cards/ethereum/api/cards/2907/{locale}.json",
+        "default": "en",
+        "locales": [
+            "en",
+            "ja"
+        ]
+    }
+}

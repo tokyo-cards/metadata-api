@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Seven"
+        },
+        "house": {
+            "name": "House",
+            "value": "Clubs"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "ひ"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Uncommon"
+        }
+    },
+    "description": "Non-Primal Cards. This card set is a tribute to the famous Akiho Yoshizawa (Acky).  You've probably seen her video at some point in your life. Can be disenchanted into Lima Primal Cards. Disenchanters are rare, maybe they live with kangaroos.",
+    "external_url": "https://tokyo.cards/items?id=1160&chain=ethereum",
+    "image": "https://images.tokyo.cards/ethereum/card_set/acky/1160.jpg",
+    "name": "Seven of Clubs",
+    "localization": {
+        "uri": "https://api.tokyo.cards/ethereum/api/cards/1160/{locale}.json",
+        "default": "en",
+        "locales": [
+            "en",
+            "ja"
+        ]
+    }
+}
