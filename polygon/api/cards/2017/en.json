@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Jack"
+        },
+        "house": {
+            "name": "House",
+            "value": "Clubs"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "と"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Rare"
+        }
+    },
+    "description": "Non-Primal Cards. This card set is a tribute to the famous Akiho Yoshizawa (Acky).  You've probably seen her video at some point in your life. Can be disenchanted into Lima Primal Cards. Disenchanters are rare, maybe they live with kangaroos.",
+    "external_url": "https://tokyo.cards/items?id=2017&chain=polygon",
+    "image": "https://images.tokyo.cards/polygon/card_set/acky/2017.jpg",
+    "name": "Jack of Clubs",
+    "localization": {
+        "uri": "https://api.tokyo.cards/polygon/api/cards/2017/{locale}.json",
+        "default": "en",
+        "locales": [
+            "en",
+            "ja"
+        ]
+    }
+}

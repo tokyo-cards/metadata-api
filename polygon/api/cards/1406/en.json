@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Eight"
+        },
+        "house": {
+            "name": "House",
+            "value": "Hearts"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "う"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Uncommon"
+        }
+    },
+    "description": "Non-Primal Cards. This card set is a tribute to the famous Akiho Yoshizawa (Acky).  You've probably seen her video at some point in your life. Can be disenchanted into Scarlet Primal Cards. But where do you find a disenchanter ?",
+    "external_url": "https://tokyo.cards/items?id=1406&chain=polygon",
+    "image": "https://images.tokyo.cards/polygon/card_set/acky/1406.jpg",
+    "name": "Eight of Hearts",
+    "localization": {
+        "uri": "https://api.tokyo.cards/polygon/api/cards/1406/{locale}.json",
+        "default": "en",
+        "locales": [
+            "en",
+            "ja"
+        ]
+    }
+}

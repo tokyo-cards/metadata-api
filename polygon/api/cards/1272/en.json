@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "name": {
+            "name": "Face",
+            "value": "Seven"
+        },
+        "house": {
+            "name": "House",
+            "value": "Diamonds"
+        },
+        "inscription": {
+            "name": "Inscription",
+            "value": "ま"
+        },
+        "card_type": {
+            "name": "Card Type",
+            "value": "Non-Primal"
+        },
+        "deck": {
+            "name": "Deck",
+            "value": "Acky"
+        },
+        "rarity": {
+            "name": "Rarity",
+            "value": "Uncommon"
+        }
+    },
+    "description": "Non-Primal Cards. This card set is a tribute to the famous Akiho Yoshizawa (Acky).  You've probably seen her video at some point in your life. Can be disenchanted into Violet Primal Cards. Hmm, is there one disenchanter in the auction house ?",
+    "external_url": "https://tokyo.cards/items?id=1272&chain=polygon",
+    "image": "https://images.tokyo.cards/polygon/card_set/acky/1272.jpg",
+    "name": "Seven of Diamonds",
+    "localization": {
+        "uri": "https://api.tokyo.cards/polygon/api/cards/1272/{locale}.json",
+        "default": "en",
+        "locales": [
+            "en",
+            "ja"
+        ]
+    }
+}
