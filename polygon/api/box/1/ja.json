@@ -1,0 +1,12 @@
+{
+  "properties": {
+    "number_inside": {
+      "name": "Number Inside",
+      "value": 1
+    }
+  },
+  "description": "おみくじは運勢を占うもの、開けるときは慎重に。",
+  "external_url": "https://tokyo.cards/items?id=1&asset_type=box&chain=polygon",
+  "image": "https://images.tokyo.cards/polygon/box/1.jpg",
+  "name": "おみくじ"
+}

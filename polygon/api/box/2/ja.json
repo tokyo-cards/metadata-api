@@ -1,0 +1,12 @@
+{
+  "properties": { 
+    "number_inside": {
+      "name": "Number Inside",
+      "value": 1
+    }
+  },
+  "description": "しばらく置いてから開封して、中身を確認したほうがいいですね。",
+  "external_url": "https://tokyo.cards/items?id=2&asset_type=box&chain=polygon",
+  "image": "https://images.tokyo.cards/polygon/box/2.jpg",
+  "name": "御守り"
+}

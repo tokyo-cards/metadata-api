@@ -1,0 +1,21 @@
+{
+  "properties": {
+    "number_inside": {
+      "name": "Number Inside",
+      "value": 1
+    }
+  },
+  "description": "Iordium Chest. Hand made by the indigenous people of Iordia. Open me ! Unpack me ! Do whatever you like.",
+  "external_url": "https://tokyo.cards/items?id=0&asset_type=box&chain=polygon",
+  "image": "https://images.tokyo.cards/polygon/box/0.jpg",
+  "name": "Iordium Chest",
+  "localization": {
+    "uri": "https://api.tokyo.cards/polygon/api/box/0/{locale}.json",
+    "default": "en",
+    "locales": [
+      "en",
+      "ja"
+    ]
+  }
+
+}

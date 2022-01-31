@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "number_inside": {
+      "name": "Number Inside",
+      "value": 1
+    }
+  },
+  "description": "Omikuji, tells your fortune, be careful when opening it.",
+  "external_url": "https://tokyo.cards/items?id=1&asset_type=box&chain=polygon",
+  "image": "https://images.tokyo.cards/polygon/box/1.jpg",
+  "name": "OMIKUJI",
+  "localization": {
+    "uri": "https://api.tokyo.cards/polygon/api/box/1/{locale}.json",
+    "default": "en",
+    "locales": [
+      "en",
+      "ja"
+    ]
+  }
+}
